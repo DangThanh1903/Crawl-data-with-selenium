@@ -1,0 +1,9 @@
+Statistic,Median_all,Mean_all,Std_all,Top_3_Players,Bottom_3_Players,Best_Team
+Gls,0,0.490950226,1.102937534,"Erling Haaland, Bryan Mbeumo, Cole Palmer","Aaron Cresswell, Aaron Ramsdale, Aaron Wan-Bissaka",Manchester City
+Ast,0,0.366515837,0.794859383,"Bukayo Saka, Cole Palmer, Mohamed Salah","Aaron Cresswell, Aaron Ramsdale, Aaron Wan-Bissaka",Aston Villa
+xG,0.2,0.519004525,0.882894079,"Erling Haaland, Nicolas Jackson, Cole Palmer","Aaron Cresswell, Aaron Ramsdale, Adam Smith",Tottenham
+npxG,0.2,0.492081448,0.816360883,"Erling Haaland, Nicolas Jackson, Kai Havertz","Aaron Cresswell, Aaron Ramsdale, Adam Smith",Tottenham
+xAG,0.1,0.391855204,0.572876496,"Cole Palmer, Bukayo Saka, Dwight McNeil","Aaron Cresswell, Aaron Ramsdale, Adam Webster",Chelsea
+PrgC,3,6.640271493,8.331265481,"Kaoru Mitoma, Jeremy Doku, Adama Traoré","Aaron Ramsdale, Adam Webster, Alex McCarthy",Manchester City
+PrgP,9,13.04751131,13.28102002,"Manuel Akanji, Bruno Fernandes, James Maddison","Aaron Ramsdale, Alex McCarthy, Ali Al Hamadi",Tottenham
+PrgR,5.5,12.92986425,16.76588331,"Kaoru Mitoma, Mohamed Salah, Brennan Johnson","Aaron Ramsdale, Alex McCarthy, Alisson",Tottenham
